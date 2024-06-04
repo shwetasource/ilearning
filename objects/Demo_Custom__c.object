@@ -180,6 +180,15 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>demo_email__c</fullName>
+        <externalId>false</externalId>
+        <label>demo email</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
         <active>true</active>
